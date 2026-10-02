@@ -1,0 +1,23 @@
+﻿# Python cache
+__pycache__/
+*.py[cod]
+
+# Flutter build (если появится снова)
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# IDE
+.vscode/
+.idea/
+
+# Temp files
+*.tmp
+*.log
+steam_tester_results.txt
+*.docx
+
+# OS
+Thumbs.db
+desktop.ini
